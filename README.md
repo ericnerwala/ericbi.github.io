@@ -1,6 +1,6 @@
 # Eric Bi
 
-# High School Bioinformatics/Machine Learning Researcher 
+# Bioinformatics/Machine Learning Researcher 
 
 #### Technical Skills: Python, C++, JavaScript, MATLAB
 
@@ -21,13 +21,10 @@
 
 My mailbox is often overwhelmed by upcoming deadlines and grade reports, making it difficult to follow communities I care about--weekend runs, club activities, classmates’ sports matches, and outreach programs. I knew I was not alone in feeling this way.  My subsequent idea for creating WebbGPT--The Webb Schools scheduling chatbot--reached an easy consensus at the monthly meeting of Computer Science Club because of its potential value to our community. We dreamed for a future where students never hear about a club event after-the-fact or miss supporting a home tennis match..  Using LLaMA-3, we trained the chatbot on data from the school's official website, but early versions performed poorly due to outdated and generic content. Drawing from my experience in natural language processing, I shifted our approach to focus on student inbox data, which better reflected the real needs of our community. Over five months, we refined WebbGPT, feeding it relevant information from class updates, event reminders, and newsletters.  The final release was a success, transforming how students access information about school activities. WebbGPT now serves as a hub for details on lunch menus, club events, volunteer opportunities, and more, making our community more connected and informed.   
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### 2)	BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records
 [Publication](https://arxiv.org/abs/2407.05213)
 
 The advent of clinical language models integrated into electronic health records (EHR) for clinical decision support has marked a significant advancement, leveraging the depth of clinical notes for improved decision-making. Despite their success, the potential vulnerabilities of these models remain largely unexplored. This paper delves into the realm of backdoor attacks on clinical language models, introducing an innovative attention-based backdoor attack method, BadCLM. This technique clandestinely embeds a backdoor within the models, causing them to produce incorrect predictions when a pre-defined trigger is present in inputs, while functioning accurately otherwise. We demonstrate the efficacy of BadCLM through an in-hospital mortality prediction task with MIMIC III dataset, showcasing its potential to compromise model integrity. Our findings illuminate a significant security risk in clinical decision support systems and pave the way for future endeavors in fortifying clinical language models against such vulnerabilities.
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Using Pretrained Natural Language Model to Extract Drug-Drug-Interaction from Medical Document
 
