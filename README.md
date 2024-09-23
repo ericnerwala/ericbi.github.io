@@ -33,3 +33,7 @@ The advancement in medicine has resulted in the creation of numerous drugs in re
 ## Publications
 1. Lyu, W., Bi, Z., Wang, F., & Chen, C. (2024). BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records. arXiv preprint arXiv:2407.05213.
 
+## Contact Info
+
+email: ericnerwala@gmail.com 
+phone: 909-901-9967
