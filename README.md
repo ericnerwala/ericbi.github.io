@@ -17,7 +17,7 @@
 
 ## Projects
 ### WebbGPT (My high school LLM 2024)
-[Colab Link](https://colab.research.google.com/github/ericnerwala/LLaMA-Factory/blob/main/WebbGPT_with_LLaMA_Factory.ipynb#scrollTo=1oHFCsV0z-Jw!)
+[Colab Link]([https://colab.research.google.com/github/ericnerwala/LLaMA-Factory/blob/main/WebbGPT_with_LLaMA_Factory.ipynb#scrollTo=1oHFCsV0z-Jw!](https://colab.research.google.com/drive/1E8tFaCWYi5F9LkMpmi1NtW2MRrDFxU5g#scrollTo=giM74oK1rRIH))
 
 My mailbox is often overwhelmed by upcoming deadlines and grade reports, making it difficult to follow communities I care about--weekend runs, club activities, classmates’ sports matches, and outreach programs. I knew I was not alone in feeling this way.  My subsequent idea for creating WebbGPT--The Webb Schools scheduling chatbot--reached an easy consensus at the monthly meeting of Computer Science Club because of its potential value to our community. We dreamed for a future where students never hear about a club event after-the-fact or miss supporting a home tennis match..  Using LLaMA-3, we trained the chatbot on data from the school's official website, but early versions performed poorly due to outdated and generic content. Drawing from my experience in natural language processing, I shifted our approach to focus on student inbox data, which better reflected the real needs of our community. Over five months, we refined WebbGPT, feeding it relevant information from class updates, event reminders, and newsletters.  The final release was a success, transforming how students access information about school activities. WebbGPT now serves as a hub for details on lunch menus, club events, volunteer opportunities, and more, making our community more connected and informed.   
 
