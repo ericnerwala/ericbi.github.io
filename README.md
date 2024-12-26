@@ -11,7 +11,7 @@
 ## Honors & Awards
 **Computer Science / Bioinformatics**
 - 73rd LA Science Fair Computer Science Category Second Place 
-- Second Author of AMIA 2024 Annual Symposium Paper (Top 20% / 1400)
+- Best Student Paper Finalist of AMIA 2024 Annual Symposium  
 - USACO Platinum Division Qualifier
 - AIME Qualifier (AMC12 126/150, AIME 9/15)
 
