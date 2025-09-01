@@ -1,4 +1,4 @@
-# Zexin Bi
+# Eric Bi
 
 # Bioinformatics/Machine Learning Researcher 
 
